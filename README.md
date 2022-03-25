@@ -1,5 +1,4 @@
-Hello everyone
-- 🌱 I’m currently learning HTML, CSS, Javascript and Photoshop 
+
 <div align="center">
   <a href="https://github.com/Jorge-Marcelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-Marcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
