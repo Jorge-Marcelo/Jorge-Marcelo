@@ -1,10 +1,5 @@
 Hello everyone
-
-
 - 🌱 I’m currently learning HTML, CSS, Javascript and Photoshop 
-- 😄 Pronouns: He/from him
-
-
 <div align="center">
   <a href="https://github.com/Jorge-Marcelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-Marcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,7 +18,5 @@ Hello everyone
   <div> 
   <a href="https://www.instagram.com/10_stronger/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/jorge-marcelo-067a5017b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    
-  </div>
+  <a href="https://www.linkedin.com/in/jorge-marcelo-067a5017b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ </div>
