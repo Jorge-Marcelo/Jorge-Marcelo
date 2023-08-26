@@ -1,5 +1,5 @@
 <div>
-<h1>Olá    <img align="center" alt="CSS" height="100" width="100" src="https://i.gifer.com/origin/80/80908d38aba2e9a2e49315b0cc20b61b_w200.gif">
+<h1>Olá, sou Jorge     <img align="center" alt="CSS" height="100" width="100" src="https://i.gifer.com/origin/80/80908d38aba2e9a2e49315b0cc20b61b_w200.gif">
 
 </h1>
 
