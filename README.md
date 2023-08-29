@@ -3,12 +3,12 @@
 
 </h1>
 
-- 🎓 Tenho 25 anos.
+-  Tenho 25 anos.
 - 💻 Sou um estudante de Front-End bastante curioso que gosta de aprender de
  diversas maneiras seja por cursos oficiais ou tutoriais
 - 🌍 Atualmente, estou estudando HTML, CSS e Javascript.
 - 🖼️ Tenho habilidades de UI, UX Design e Photoshop
-  faço artes para empresas e também uso dessas habilidades para complementar
+  faço artes como freelancer e também uso dessas habilidades para complementar
   meus projetos Front-End
 - 🎮 Sou apaixonado por games e busco trazer meu hobbie para meus projetos sem
   perder o foco do projeto que seria Logica de Programação e Javascript 
