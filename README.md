@@ -25,7 +25,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png">
+  <img align="center" alt="CSS" height="30" width="30" src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png">
 
 </div>
   
