@@ -7,7 +7,7 @@
 - 💻 Sou um estudante  bastante curioso que gosta de aprender de
  diversas maneiras seja por cursos oficiais ou tutoriais
 - 🌍 Atualmente, estou estudando C# e .NET para ter uma base melhor com logica de programação
-- 🖼️ Tenho habilidades de HTML, CSS , Javascript, UI, UX Design e Photoshop
+- 🖼️ Tenho habilidades de HTML, CSS , Javascript, UI, e  UX Design 
   faço artes como freelancer e também uso dessas habilidades para complementar
   meus projetos Front-End
 - 🎮 Sou apaixonado por games e busco trazer meu hobbie para meus projetos sem
