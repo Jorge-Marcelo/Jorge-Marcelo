@@ -1,43 +1,69 @@
-<div>
-<h1>Olá, sou Jorge  
+## Jorge Marcelo
 
-</h1>
+Possuo conhecimentos em HTML e CSS utilizando o framework Razor Pages, mas uso apenas como uma forma de deixar o visual dos meus projetos mais agradável.  
+O foco do meu perfil e projetos é a linguagem C#, seus frameworks, plataformas e softwares relacionados.
 
--  Tenho 25 anos.
-- 💻 Sou um estudante  bastante curioso que gosta de aprender de
- diversas maneiras seja por cursos oficiais ou tutoriais
-- 🌍 Atualmente, estou estudando C# e .NET para ter uma base melhor com logica de programação
-- 🖼️ Tenho habilidades de HTML, CSS , Javascript, UI, e  UX Design 
-  faço artes como freelancer e também uso dessas habilidades para complementar
-  meus projetos Front-End
-- 🎮 Sou apaixonado por games e busco trazer meu hobbie para meus projetos sem
-  perder o foco do projeto que seria Logica de Programação 
- </div>
- 
-<div>
-  <a href="https://github.com/Jorge-Marcelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-Marcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Marcelo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+---
 
-  <div style="display: inline_block"><br>
-<h2>Tecnologias que uso</h2>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C#" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
-
-</div>
-  
-  ##
-<h2>Entre em contado</h2>
-  <div> 
-  <a href="https://www.instagram.com/10_stronger/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!-- Botões Redes Sociais coloridos, grandes e lado a lado -->
+<a href="https://www.instagram.com/10_stronger/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/jorge-marcelo-067a5017b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:jorge100stronger@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- </div>
+   ---
+###  Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<br>
+<br>
+<br>
+
+### Estatísticas no GitHub
+
+![Jorge Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-marcelo-067a5017b&show_icons=true&theme=Tokyonight)
 
  
 
