@@ -1,7 +1,8 @@
 ## Jorge Marcelo
 
 Me chamo Jorge Marcelo, tenho 28 anos, sou formado em
-Análise e Desenvolvimento de Sistemas, atualmente estou estudando desenvolvimento backend focado na plataforma.NET
+Análise e Desenvolvimento de Sistemas, atualmente estou estudando desenvolvimento backend focado na plataforma.NET.
+
 Possuo conhecimentos em HTML e CSS utilizando o framework Razor Pages, mas uso apenas como uma forma de deixar o visual dos meus projetos mais agradável.  
 O foco do meu perfil e projetos é a linguagem C#, seus frameworks, plataformas e softwares relacionados.
 
